@@ -1,0 +1,5 @@
+admin admin jelentkezett be 
+admin A teszt táblához adatot adott hozzá! 
+admin Az adatok táblához egy új adatott adott hozzá 
+admin kilépett! 
+moderator moderátor jelentkezett be 
